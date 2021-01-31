@@ -1,0 +1,25 @@
+body{
+    background-color: bisque;
+}
+.heading{
+    font-size: 25px;
+    border-radius: 10px;
+    letter-spacing: 10px;
+    word-spacing: 20px;
+    color:aqua;
+    padding: 10px;
+}
+label{
+    background-color:coral;
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+}
+#prediction_1,#prediction_2{
+font-size:25px;
+color:red;
+font-weight: bold;
+}
+.emoji{
+    font-size: 40px;
+}
